@@ -1,2 +1,3 @@
 # ghd
-GHD_INTEGRATION
+test repo for git commands demonstration
+
